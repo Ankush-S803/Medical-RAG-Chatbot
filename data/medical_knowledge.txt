@@ -1,0 +1,435 @@
+# Common Medical Conditions - Reference Material
+
+## Diabetes
+
+### Type 1 Diabetes
+Type 1 diabetes is a chronic condition in which the pancreas produces little or no insulin. Insulin is a hormone needed to allow sugar (glucose) to enter cells to produce energy. Different factors, including genetics and some viruses, may contribute to type 1 diabetes. Although type 1 diabetes usually appears during childhood or adolescence, it can develop in adults.
+
+**Symptoms:** Increased thirst, frequent urination, bed-wetting in children who previously did not wet the bed during the night, extreme hunger, unintended weight loss, irritability and other mood changes, fatigue and weakness, blurred vision.
+
+**Treatment:** Taking insulin, counting carbohydrates, fats and protein, frequent blood sugar monitoring, eating healthy foods, exercising regularly and maintaining a healthy weight. The goal is to keep blood sugar as close to normal as possible to delay or prevent complications.
+
+**Complications:** Heart and blood vessel disease, nerve damage (neuropathy), kidney damage (nephropathy), eye damage (retinopathy), foot damage, skin and mouth conditions, pregnancy complications.
+
+### Type 2 Diabetes
+Type 2 diabetes is a chronic condition that affects the way the body processes blood sugar (glucose). With type 2 diabetes, the body either does not produce enough insulin, or it resists insulin. Type 2 diabetes used to be known as adult-onset diabetes, but today more children are being diagnosed with the disorder, probably due to the rise in childhood obesity.
+
+**Symptoms:** Increased thirst and frequent urination, increased hunger, weight loss, fatigue, blurred vision, slow-healing sores, frequent infections, numbness or tingling in the hands or feet, areas of darkened skin, usually in the armpits and neck.
+
+**Risk Factors:** Weight (being overweight is a primary risk factor), fat distribution (storing fat mainly in the abdomen indicates a greater risk), inactivity, family history, race and ethnicity, age (risk increases with age), prediabetes, gestational diabetes, polycystic ovarian syndrome.
+
+**Treatment:** Healthy eating, regular exercise, diabetes medication or insulin therapy, blood sugar monitoring. Metformin is generally the first medication prescribed for type 2 diabetes. It works primarily by lowering glucose production in the liver and improving the body's sensitivity to insulin.
+
+**Complications:** Heart and blood vessel disease, nerve damage, kidney damage, eye damage, slow healing, hearing impairment, skin conditions, sleep apnea, Alzheimer's disease.
+
+### Gestational Diabetes
+Gestational diabetes develops during pregnancy. Like other types of diabetes, gestational diabetes affects how cells use sugar (glucose). Gestational diabetes causes high blood sugar that can affect pregnancy and the baby's health.
+
+**Risk Factors:** Being overweight before becoming pregnant, being older than 25, having a family history of type 2 diabetes, having had gestational diabetes during a previous pregnancy, having polycystic ovary syndrome.
+
+---
+
+## Hypertension (High Blood Pressure)
+
+### Overview
+Hypertension, or high blood pressure, is a common condition in which the long-term force of the blood against the artery walls is high enough that it may eventually cause health problems, such as heart disease. Blood pressure is determined both by the amount of blood the heart pumps and the amount of resistance to blood flow in the arteries.
+
+**Normal Blood Pressure:** Less than 120/80 mm Hg
+**Elevated:** Systolic between 120-129 and diastolic less than 80
+**Stage 1 Hypertension:** Systolic between 130-139 or diastolic between 80-89
+**Stage 2 Hypertension:** Systolic at least 140 or diastolic at least 90
+
+### Symptoms
+Most people with high blood pressure have no signs or symptoms, even if blood pressure readings reach dangerously high levels. A few people with high blood pressure may have headaches, shortness of breath or nosebleeds, but these signs are not specific and usually do not occur until high blood pressure has reached a severe or life-threatening stage.
+
+### Causes
+**Primary (Essential) Hypertension:** For most adults, there is no identifiable cause of high blood pressure. This type tends to develop gradually over many years.
+
+**Secondary Hypertension:** Some people have high blood pressure caused by an underlying condition. This type tends to appear suddenly and cause higher blood pressure than primary hypertension. Various conditions and medications can lead to secondary hypertension, including obstructive sleep apnea, kidney disease, adrenal gland tumors, thyroid problems, certain medications, and illegal drugs.
+
+### Risk Factors
+Age, race, family history, being overweight or obese, not being physically active, using tobacco, too much salt in the diet, too little potassium in the diet, drinking too much alcohol, stress, certain chronic conditions.
+
+### Treatment
+**Lifestyle Changes:** Eating a healthier diet with less salt (DASH diet), exercising regularly, quitting smoking, losing weight, limiting alcohol.
+
+**Medications:** Thiazide diuretics, ACE inhibitors, Angiotensin II receptor blockers (ARBs), Calcium channel blockers, Beta-blockers.
+
+### Complications
+Damage to the heart (heart attack, heart failure), damage to the brain (stroke, dementia), damage to the kidneys, damage to the eyes, sexual dysfunction, peripheral artery disease.
+
+---
+
+## Anemia
+
+### Overview
+Anemia is a condition in which the blood does not have enough healthy red blood cells or hemoglobin. Hemoglobin is a main part of red blood cells and binds oxygen. If you have too few red blood cells or your hemoglobin is low, the cells in your body will not get enough oxygen.
+
+### Types of Anemia
+
+**Iron Deficiency Anemia:** The most common type of anemia worldwide. It occurs when the body does not have enough iron to produce hemoglobin. Without adequate iron, the body cannot produce enough hemoglobin for red blood cells.
+
+**Vitamin Deficiency Anemia:** In addition to iron, the body needs folate and vitamin B-12 to produce enough healthy red blood cells. A diet lacking in these and other key nutrients can cause decreased red blood cell production. Also, some people who consume enough B-12 are not able to absorb the vitamin, leading to pernicious anemia.
+
+**Anemia of Chronic Disease:** Certain diseases, such as cancer, HIV/AIDS, rheumatoid arthritis, kidney disease, Crohn's disease and other chronic inflammatory diseases, can interfere with the production of red blood cells.
+
+**Aplastic Anemia:** This rare, life-threatening anemia occurs when the body does not produce enough red blood cells. Causes include infections, certain medicines, autoimmune diseases and exposure to toxic chemicals.
+
+**Sickle Cell Anemia:** This inherited and sometimes serious condition is a hemolytic anemia. It is caused by a defective form of hemoglobin that forces red blood cells to assume an abnormal crescent (sickle) shape. These irregular blood cells die prematurely, resulting in a chronic shortage of red blood cells.
+
+**Thalassemia:** This inherited blood disorder causes the body to make an abnormal form of hemoglobin, resulting in excessive destruction of red blood cells, which leads to anemia.
+
+### Symptoms
+Fatigue, weakness, pale or yellowish skin, irregular heartbeats, shortness of breath, dizziness or lightheadedness, chest pain, cold hands and feet, headaches.
+
+### Treatment
+Treatment for anemia depends on the cause. Iron deficiency anemia is treated with iron supplements and dietary changes. Vitamin deficiency anemias are treated with dietary supplements and increasing these nutrients in the diet. Anemia of chronic disease has no specific treatment; treatment focuses on the underlying disease. Aplastic anemia may require blood transfusions or bone marrow transplant. Sickle cell anemia treatments include pain medications, hydroxyurea, and blood transfusions.
+
+---
+
+## Asthma
+
+### Overview
+Asthma is a condition in which the airways narrow and swell and may produce extra mucus. This can make breathing difficult and trigger coughing, a whistling sound (wheezing) when breathing out, and shortness of breath. For some people, asthma is a minor nuisance. For others, it can be a major problem that interferes with daily activities and may lead to a life-threatening asthma attack.
+
+### Symptoms
+Shortness of breath, chest tightness or pain, wheezing when exhaling (wheezing is a common sign of asthma in children), trouble sleeping caused by shortness of breath, coughing or wheezing, coughing or wheezing attacks that are worsened by a respiratory virus such as a cold or the flu.
+
+### Signs that asthma is worsening
+Asthma signs and symptoms that are more frequent and bothersome, increasing difficulty breathing, the need to use a quick-relief inhaler more often.
+
+### Triggers
+Airborne allergens (pollen, dust mites, mold spores, pet dander), respiratory infections (common cold), physical activity, cold air, air pollutants and irritants (smoke), certain medications (beta blockers, aspirin, NSAIDs), strong emotions and stress, sulfites and preservatives, gastroesophageal reflux disease (GERD).
+
+### Treatment
+**Long-term control medications:** Inhaled corticosteroids (fluticasone, budesonide, mometasone, beclomethasone), leukotriene modifiers (montelukast, zafirlukast, zileuton), long-acting beta agonists (salmeterol, formoterol), combination inhalers, theophylline.
+
+**Quick-relief medications:** Short-acting beta agonists (albuterol, levalbuterol), anticholinergic agents (ipratropium), oral and intravenous corticosteroids.
+
+### Complications
+Signs and symptoms that interfere with sleep, work and other activities, sick days from work or school during asthma flare-ups, a permanent narrowing of the tubes that carry air to and from the lungs (bronchial tubes), emergency room visits and hospitalizations for severe asthma attacks, side effects from long-term use of some medications.
+
+---
+
+## Arthritis
+
+### Overview
+Arthritis is the swelling and tenderness of one or more joints. The main symptoms of arthritis are joint pain and stiffness, which typically worsen with age. The most common types of arthritis are osteoarthritis and rheumatoid arthritis.
+
+### Osteoarthritis
+Osteoarthritis causes cartilage — the hard, slippery tissue that covers the ends of bones where they form a joint — to break down. Osteoarthritis is the most common form of arthritis, affecting millions of people worldwide. It occurs when the protective cartilage that cushions the ends of the bones wears down over time. Although osteoarthritis can damage any joint, the disorder most commonly affects joints in the hands, knees, hips and spine.
+
+**Risk Factors:** Older age, sex (women are more likely), obesity, joint injuries, repeated stress on the joint, genetics, bone deformities, certain metabolic diseases.
+
+**Treatment:** Acetaminophen, NSAIDs, duloxetine, physical therapy, occupational therapy, cortisone injections, lubrication injections, joint replacement surgery.
+
+### Rheumatoid Arthritis
+Rheumatoid arthritis is a chronic inflammatory disorder that can affect more than just the joints. In some people, the condition can damage a wide variety of body systems, including the skin, eyes, lungs, heart and blood vessels. An autoimmune disorder, rheumatoid arthritis occurs when the immune system mistakenly attacks the body's own tissues.
+
+**Symptoms:** Tender, warm, swollen joints, joint stiffness that is usually worse in the mornings and after inactivity, fatigue, fever, loss of appetite.
+
+**Treatment:** NSAIDs, steroids, conventional DMARDs (methotrexate, leflunomide, hydroxychloroquine, sulfasalazine), biologic agents (abatacept, adalimumab, certolizumab, etanercept, golimumab, infliximab, rituximab, sarilumab, tocilizumab), targeted synthetic DMARDs (baricitinib, tofacitinib, upadacitinib).
+
+---
+
+## Common Cold
+
+### Overview
+The common cold is a viral infection of the upper respiratory tract — the nose and throat. It is usually harmless, although it might not feel that way. Many types of viruses can cause a common cold. Healthy adults can expect to have two or three colds each year. Infants and young children may have even more frequent colds.
+
+### Symptoms
+Runny or stuffy nose, sore throat, cough, congestion, slight body aches or a mild headache, sneezing, low-grade fever, generally feeling unwell. The discharge from the nose may start out clear and become thicker and yellow or green as a common cold runs its course. Most people recover from a common cold in 7 to 10 days.
+
+### When to See a Doctor
+For adults: fever greater than 101.3 F (38.5 C), fever lasting five days or more or returning after a fever-free period, shortness of breath, wheezing, severe sore throat, headache or sinus pain.
+
+For children: fever of 100.4 F (38 C) in newborns up to 12 weeks, rising fever or fever lasting more than two days in a child of any age, symptoms that worsen or fail to improve, severe symptoms such as headache or cough, wheezing, ear pain, extreme fussiness, unusual drowsiness, lack of appetite.
+
+### Treatment
+There is no cure for the common cold. Antibiotics are of no use against cold viruses. Over-the-counter cold remedies can provide symptom relief: pain relievers (acetaminophen, ibuprofen), decongestant nasal sprays (for adults only), cough syrups. Rest, fluids and good nutrition support recovery.
+
+### Prevention
+Wash hands frequently, disinfect surfaces, use tissues, do not share drinking glasses or utensils, avoid close contact with anyone who has a cold, choose a child care center with good hygiene practices.
+
+---
+
+## Influenza (Flu)
+
+### Overview
+Influenza is a viral infection that attacks the respiratory system — the nose, throat and lungs. Influenza is commonly called the flu, but it is not the same as stomach flu viruses that cause diarrhea and vomiting. For most people, the flu resolves on its own. But sometimes, influenza and its complications can be deadly.
+
+### Symptoms
+Fever, aching muscles, chills and sweats, headache, dry persistent cough, shortness of breath, tiredness and weakness, runny or stuffy nose, sore throat, eye pain, vomiting and diarrhea (more common in children).
+
+### Risk Factors
+Age (children under 5, adults older than 65), living or working conditions (nursing homes, military barracks), weakened immune system, chronic illnesses, obesity, pregnancy, aspirin use under age 19 (risk of Reye's syndrome).
+
+### Treatment
+Usually rest and fluids. Antiviral medications (oseltamivir/Tamiflu, zanamivir/Relenza, baloxavir/Xofluza) may shorten illness by a day and help prevent serious complications if started within 48 hours of symptom onset.
+
+### Prevention
+The flu vaccine is recommended annually for everyone over 6 months of age. The Centers for Disease Control and Prevention (CDC) recommends annual flu vaccination for everyone 6 months or older.
+
+---
+
+## Ibuprofen
+
+### Overview
+Ibuprofen is a nonsteroidal anti-inflammatory drug (NSAID) used to treat pain, fever, and inflammation. It is available over the counter (OTC) in lower doses and by prescription in higher doses.
+
+### Common Brand Names
+Advil, Motrin, Nurofen
+
+### Uses
+Relief of mild to moderate pain (headaches, toothaches, menstrual cramps, muscle aches), reduction of fever, relief of minor aches and pains due to the common cold or flu, treatment of arthritis pain and inflammation.
+
+### Common Side Effects
+Stomach pain, heartburn, nausea, vomiting, gas, constipation, diarrhea, dizziness, headache, nervousness, mild itching or rash, ringing in the ears, blurred vision.
+
+### Serious Side Effects
+Stomach or intestinal bleeding, heart attack, stroke, kidney problems, liver problems, severe allergic reactions, high blood pressure, fluid retention and edema.
+
+### Warnings
+Do not take ibuprofen if you have had an allergic reaction to aspirin or other NSAIDs. Ibuprofen can increase the risk of fatal heart attack or stroke, especially with long-term use or in people with heart disease. Ibuprofen may also cause stomach or intestinal bleeding, which can be fatal. The risk is higher in older adults. Do not use ibuprofen just before or after heart bypass surgery (coronary artery bypass graft, or CABG).
+
+### Dosage
+Adults and children 12 years and over: 200 mg to 400 mg every 4 to 6 hours as needed. Do not exceed 1200 mg in 24 hours unless directed by a doctor. For prescription doses, up to 3200 mg per day may be used under medical supervision.
+
+---
+
+## Allergies
+
+### Overview
+Allergies occur when the immune system reacts to a foreign substance — such as pollen, bee venom or pet dander — or a food that does not cause a reaction in most people. The immune system produces substances known as antibodies. When you have allergies, your immune system makes antibodies that identify a particular allergen as harmful, even though it is not.
+
+### Types of Allergies
+
+**Hay Fever (Allergic Rhinitis):** Sneezing, itching of the nose, eyes or roof of the mouth, runny stuffy nose, watery red or swollen eyes (conjunctivitis).
+
+**Food Allergy:** Tingling in the mouth, swelling of the lips, tongue, face or throat, hives, anaphylaxis.
+
+**Insect Sting Allergy:** A large area of swelling (edema) at the sting site, itching or hives all over the body, cough, chest tightness, wheezing, shortness of breath, anaphylaxis.
+
+**Drug Allergy:** Hives, itchy skin, rash, facial swelling, wheezing, anaphylaxis.
+
+**Atopic Dermatitis (Eczema):** Itchy, red, flaking or peeling skin.
+
+### Anaphylaxis
+A severe, potentially life-threatening allergic reaction. Signs and symptoms include loss of consciousness, drop in blood pressure, severe shortness of breath, skin rash, lightheadedness, rapid weak pulse, nausea and vomiting. Anaphylaxis requires an immediate injection of epinephrine (adrenaline) and a trip to the emergency room.
+
+### Treatment
+**Allergen avoidance:** Identify and avoid triggers.
+**Medications:** Antihistamines (cetirizine, loratadine, fexofenadine, diphenhydramine), decongestants, nasal corticosteroids (fluticasone, mometasone), cromolyn sodium, leukotriene modifiers.
+**Immunotherapy:** Allergy shots (subcutaneous immunotherapy) or sublingual immunotherapy.
+**Emergency epinephrine:** For people at risk of anaphylaxis.
+
+---
+
+## Migraine
+
+### Overview
+A migraine is a headache that can cause severe throbbing pain or a pulsing sensation, usually on one side of the head. It is often accompanied by nausea, vomiting, and extreme sensitivity to light and sound. Migraine attacks can last for hours to days, and the pain can be so severe that it interferes with daily activities.
+
+### Phases
+**Prodrome:** One or two days before a migraine, subtle changes that warn of an upcoming migraine including constipation, mood changes, food cravings, neck stiffness, increased urination, fluid retention, frequent yawning.
+
+**Aura:** May occur before or during migraines. Auras are reversible symptoms of the nervous system. They include visual disturbances (flashes of light, blind spots, zigzag patterns), tingling in an arm or leg, weakness or numbness, speech difficulties.
+
+**Attack:** A migraine usually lasts from 4 to 72 hours if untreated. Pain usually on one side of the head, but often on both sides, throbbing or pulsing pain, sensitivity to light, sound, smell and touch, nausea and vomiting.
+
+**Post-drome:** After a migraine attack, you might feel drained, confused and washed out for up to a day.
+
+### Triggers
+Hormonal changes in women, drinks (alcohol, caffeine), stress, sensory stimuli (bright lights, strong smells), sleep changes, physical factors, weather changes, medications, foods (aged cheeses, salty and processed foods, food additives like MSG and aspartame), skipping meals.
+
+### Treatment
+**Pain-relieving medications:** Triptans (sumatriptan, rizatriptan), dihydroergotamine, lasmiditan, ubrogepant, rimegepant, opioid medications, anti-nausea drugs.
+
+**Preventive medications:** Blood pressure-lowering medications (propranolol, metoprolol, verapamil), antidepressants (amitriptyline, venlafaxine), anti-seizure drugs (valproate, topiramate), CGRP monoclonal antibodies (erenumab, fremanezumab, galcanezumab, eptinezumab), Botox injections.
+
+---
+
+## Pneumonia
+
+### Overview
+Pneumonia is an infection that inflames the air sacs in one or both lungs. The air sacs may fill with fluid or pus, causing cough with phlegm or pus, fever, chills, and difficulty breathing. A variety of organisms, including bacteria, viruses and fungi, can cause pneumonia.
+
+### Symptoms
+Chest pain when breathing or coughing, confusion or changes in mental awareness (in adults age 65 and older), cough which may produce phlegm, fatigue, fever sweating and shaking chills, lower than normal body temperature (in adults older than age 65 and people with weak immune systems), nausea vomiting or diarrhea, shortness of breath.
+
+### Types
+**Community-acquired pneumonia:** The most common type. Caused by bacteria (Streptococcus pneumoniae), bacteria-like organisms (Mycoplasma pneumoniae), fungi, or viruses including COVID-19.
+
+**Hospital-acquired pneumonia:** Acquired during a hospital stay. Can be serious because the bacteria causing it may be more resistant to antibiotics.
+
+**Aspiration pneumonia:** Occurs when food, drink, vomit or saliva is inhaled into the lungs.
+
+### Treatment
+Antibiotics (for bacterial pneumonia), cough medicine, fever reducers/pain relievers, rest and fluids. Hospitalization may be needed for severe cases. Treatment depends on the type and severity of pneumonia.
+
+### Prevention
+Vaccination (pneumococcal vaccine, flu vaccine, COVID-19 vaccine), good hygiene, not smoking, keeping the immune system strong.
+
+---
+
+## Depression
+
+### Overview
+Depression is a mood disorder that causes a persistent feeling of sadness and loss of interest. Also called major depressive disorder or clinical depression, it affects how you feel, think and behave and can lead to a variety of emotional and physical problems. You may have trouble doing normal day-to-day activities, and sometimes you may feel as if life is not worth living.
+
+### Symptoms
+Feelings of sadness, tearfulness, emptiness or hopelessness, angry outbursts, irritability or frustration, loss of interest or pleasure in most or all normal activities, sleep disturbances (insomnia or sleeping too much), tiredness and lack of energy, reduced appetite and weight loss or increased cravings for food and weight gain, anxiety, agitation or restlessness, slowed thinking, speaking or body movements, feelings of worthlessness or guilt, trouble thinking, concentrating, making decisions and remembering things, frequent or recurrent thoughts of death, suicidal thoughts, suicide attempts or suicide, unexplained physical problems such as back pain or headaches.
+
+### Types
+**Major Depressive Disorder:** Symptoms most of the day, nearly every day, for at least 2 weeks.
+**Persistent Depressive Disorder (Dysthymia):** Depressed mood that lasts for at least 2 years.
+**Postpartum Depression:** Depression that occurs after childbirth.
+**Seasonal Affective Disorder:** Depression related to changes in seasons, usually beginning in fall and continuing through winter.
+
+### Treatment
+**Medications:** SSRIs (fluoxetine/Prozac, sertraline/Zoloft, escitalopram/Lexapro, paroxetine/Paxil, citalopram/Celexa), SNRIs (duloxetine/Cymbalta, venlafaxine/Effexor, desvenlafaxine/Pristiq), atypical antidepressants (bupropion/Wellbutrin, mirtazapine/Remeron, trazodone), tricyclic antidepressants, MAOIs.
+
+**Psychotherapy:** Cognitive behavioral therapy (CBT), interpersonal therapy, problem-solving treatment.
+
+**Other treatments:** Electroconvulsive therapy (ECT), transcranial magnetic stimulation (TMS), ketamine and esketamine (Spravato).
+
+---
+
+## Urinary Tract Infection (UTI)
+
+### Overview
+A urinary tract infection (UTI) is an infection in any part of the urinary system — kidneys, ureters, bladder and urethra. Most infections involve the lower urinary tract — the bladder and the urethra. Women are at greater risk of developing a UTI than men.
+
+### Symptoms
+A strong, persistent urge to urinate, a burning sensation when urinating, passing frequent small amounts of urine, urine that appears cloudy, urine that appears red bright pink or cola-colored (a sign of blood in the urine), strong-smelling urine, pelvic pain in women.
+
+### Types
+**Cystitis (bladder infection):** Pelvic pressure, lower abdomen discomfort, frequent painful urination, blood in urine. Usually caused by Escherichia coli (E. coli).
+**Urethritis (urethra infection):** Burning with urination, discharge.
+**Pyelonephritis (kidney infection):** Upper back and side pain, high fever, shaking and chills, nausea, vomiting.
+
+### Risk Factors
+Female anatomy, sexual activity, certain types of birth control, menopause, urinary tract abnormalities, blockages in the urinary tract, suppressed immune system, catheter use.
+
+### Treatment
+Antibiotics are the first line of treatment. Commonly prescribed antibiotics include trimethoprim/sulfamethoxazole, fosfomycin, nitrofurantoin, cephalexin, ceftriaxone. For frequent UTIs, low-dose antibiotics for six months or longer, self-diagnosis and treatment, a single dose of antibiotic after sexual intercourse, or vaginal estrogen therapy may be recommended.
+
+### Prevention
+Drink plenty of liquids especially water, drink cranberry juice, wipe from front to back, empty bladder soon after intercourse, avoid potentially irritating feminine products, change birth control method.
+
+---
+
+## Cholesterol
+
+### Overview
+Cholesterol is a waxy substance found in the blood. The body needs cholesterol to build healthy cells, but high levels of cholesterol can increase the risk of heart disease. With high cholesterol, fatty deposits can develop in blood vessels, making it difficult for enough blood to flow through arteries.
+
+### Types
+**LDL (Low-density lipoprotein):** The "bad" cholesterol. It transports cholesterol particles throughout the body. LDL cholesterol builds up in the walls of arteries, making them hard and narrow.
+**HDL (High-density lipoprotein):** The "good" cholesterol. It picks up excess cholesterol and takes it back to the liver.
+**Triglycerides:** A type of fat in the blood. High triglycerides combined with high LDL or low HDL cholesterol increases risk of heart disease.
+
+### Desirable Levels
+Total cholesterol: Less than 200 mg/dL
+LDL cholesterol: Less than 100 mg/dL
+HDL cholesterol: 60 mg/dL or higher
+Triglycerides: Less than 150 mg/dL
+
+### Risk Factors for High Cholesterol
+Poor diet, obesity, lack of exercise, smoking, age, diabetes.
+
+### Treatment
+**Lifestyle changes:** Heart-healthy diet, exercise, quit smoking, lose weight.
+**Medications:** Statins (atorvastatin/Lipitor, rosuvastatin/Crestor, simvastatin/Zocor), bile-acid-binding resins (cholestyramine, colesevelam, colestipol), cholesterol absorption inhibitors (ezetimibe/Zetia), PCSK9 inhibitors (alirocumab/Praluent, evolocumab/Repatha), injectable medications.
+
+---
+
+## Gastroesophageal Reflux Disease (GERD)
+
+### Overview
+Gastroesophageal reflux disease (GERD) occurs when stomach acid frequently flows back into the tube connecting the mouth and stomach (esophagus). This backwash (acid reflux) can irritate the lining of the esophagus. Many people experience acid reflux from time to time. GERD is mild acid reflux that occurs at least twice a week, or moderate to severe acid reflux that occurs at least once a week.
+
+### Symptoms
+A burning sensation in the chest (heartburn), usually after eating, which might be worse at night, chest pain, difficulty swallowing, regurgitation of food or sour liquid, sensation of a lump in the throat. Nighttime acid reflux may cause laryngitis, chronic cough, new or worsening asthma, disrupted sleep.
+
+### Risk Factors
+Obesity, hiatal hernia, pregnancy, connective tissue disorders, delayed stomach emptying. Factors that can aggravate acid reflux include smoking, eating large meals or eating late at night, eating certain foods (fatty or fried foods), drinking certain beverages (alcohol or coffee), taking certain medications (aspirin).
+
+### Treatment
+**Over-the-counter medications:** Antacids (Tums, Rolaids, Maalox), H-2 receptor blockers (famotidine/Pepcid, cimetidine/Tagamet), proton pump inhibitors (omeprazole/Prilosec, lansoprazole/Prevacid, esomeprazole/Nexium).
+
+**Prescription medications:** Prescription-strength H-2 receptor blockers, prescription-strength proton pump inhibitors, medications to strengthen the lower esophageal sphincter (baclofen).
+
+**Surgery:** Fundoplication, LINX device.
+
+### Lifestyle Changes
+Maintain a healthy weight, stop smoking, elevate the head of the bed, do not lie down after a meal, eat food slowly and chew thoroughly, avoid foods and drinks that trigger reflux, avoid tight-fitting clothing.
+
+---
+
+## Thyroid Disorders
+
+### Hypothyroidism
+Hypothyroidism (underactive thyroid) is a condition in which the thyroid gland does not produce enough of certain crucial hormones. Hypothyroidism may not cause noticeable symptoms in the early stages but over time can cause a number of health problems.
+
+**Symptoms:** Fatigue, increased sensitivity to cold, constipation, dry skin, weight gain, puffy face, hoarseness, muscle weakness, elevated blood cholesterol level, muscle aches, pain and stiffness in joints, irregular or heavy menstrual periods, thinning hair, slowed heart rate, depression, impaired memory, enlarged thyroid gland (goiter).
+
+**Treatment:** Levothyroxine (Synthroid, Levoxyl, Unithroid) — daily use of the synthetic thyroid hormone. Proper dosage is determined through blood tests.
+
+### Hyperthyroidism
+Hyperthyroidism (overactive thyroid) occurs when the thyroid gland produces too much of the hormone thyroxine. It can accelerate metabolism, causing unintentional weight loss and a rapid or irregular heartbeat.
+
+**Symptoms:** Unintentional weight loss, rapid heartbeat (tachycardia), irregular heartbeat (arrhythmia), pounding of the heart (palpitations), increased appetite, nervousness anxiety and irritability, tremor, sweating, changes in menstrual patterns, increased sensitivity to heat, changes in bowel patterns, an enlarged thyroid gland (goiter), fatigue muscle weakness, difficulty sleeping, skin thinning, fine brittle hair.
+
+**Treatment:** Radioactive iodine, anti-thyroid medications (methimazole/Tapazole, propylthiouracil), beta blockers, thyroidectomy (surgery).
+
+---
+
+## Osteoporosis
+
+### Overview
+Osteoporosis causes bones to become weak and brittle — so brittle that a fall or even mild stresses such as bending over or coughing can cause a fracture. Osteoporosis-related fractures most commonly occur in the hip, wrist or spine. Bone is living tissue that is constantly being broken down and replaced. Osteoporosis occurs when the creation of new bone does not keep up with the loss of old bone.
+
+### Symptoms
+There typically are no symptoms in the early stages of bone loss. But once bones have been weakened by osteoporosis, signs and symptoms may include back pain, loss of height over time, a stooped posture, a bone that breaks much more easily than expected.
+
+### Risk Factors
+Sex (women are more likely), age, race (white or Asian descent), family history, body frame size, hormone levels (reduced estrogen in women at menopause, reduced testosterone in men), thyroid problems, low calcium intake, eating disorders, gastrointestinal surgery, long-term use of corticosteroids, celiac disease, inflammatory bowel disease, kidney or liver disease, cancer, lupus, multiple myeloma, rheumatoid arthritis.
+
+### Treatment
+**Bisphosphonates:** Alendronate (Fosamax), risedronate (Actonel), ibandronate (Boniva), zoledronic acid (Reclast).
+**Monoclonal antibody medications:** Denosumab (Prolia, Xgeva).
+**Hormone-related therapy:** Estrogen therapy, raloxifene (Evista).
+**Bone-building medications:** Teriparatide (Forteo), abaloparatide (Tymlos), romosozumab (Evenity).
+
+### Prevention
+Good nutrition (adequate calcium and vitamin D), regular exercise (weight-bearing and muscle-strengthening exercises), avoiding excessive alcohol and tobacco use.
+
+---
+
+## Stroke
+
+### Overview
+A stroke occurs when the blood supply to part of the brain is interrupted or reduced, preventing brain tissue from getting oxygen and nutrients. Brain cells begin to die in minutes. A stroke is a medical emergency, and prompt treatment is crucial.
+
+### Types
+**Ischemic stroke:** The most common type. Occurs when the brain's blood vessels become narrowed or blocked, causing severely reduced blood flow (ischemia). Blocked or narrowed blood vessels are caused by fatty deposits that build up in blood vessels or by blood clots.
+
+**Hemorrhagic stroke:** Occurs when a blood vessel in the brain leaks or ruptures. Brain hemorrhages can result from many conditions including uncontrolled high blood pressure, overtreatment with blood thinners, bulges at weak spots in blood vessel walls (aneurysms), trauma, protein deposits in blood vessel walls.
+
+**Transient ischemic attack (TIA):** A temporary period of symptoms similar to those of a stroke. A TIA does not cause permanent damage but serves as a warning.
+
+### Symptoms (Act FAST)
+**F**ace drooping: Does one side of the face droop or is it numb?
+**A**rm weakness: Is one arm weak or numb?
+**S**peech difficulty: Is speech slurred?
+**T**ime to call emergency services.
+
+Other symptoms include sudden numbness or weakness in the leg, sudden confusion, sudden trouble seeing, sudden trouble walking, sudden severe headache.
+
+### Treatment
+**Ischemic stroke:** Emergency IV medication (tPA/alteplase within 4.5 hours), endovascular procedures (mechanical thrombectomy).
+**Hemorrhagic stroke:** Emergency measures to reduce bleeding and pressure, surgery.
+
+### Prevention
+Control high blood pressure, lower cholesterol, quit smoking, manage diabetes, maintain a healthy weight, eat a diet rich in fruits and vegetables, exercise regularly, drink alcohol in moderation, treat obstructive sleep apnea, avoid illegal drugs.

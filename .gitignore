@@ -1,0 +1,9 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+vectorstore/
+page5_sample.png
+diagnose_pdf.py
+diagnose_pdf2.py
+data/The_GALE_ENCYCLOPEDIA_of_MEDICINE_SECOND.pdf
